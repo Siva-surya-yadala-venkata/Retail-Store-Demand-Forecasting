@@ -86,18 +86,9 @@ Successfully applied ML-based demand forecasting and inventory optimization.
 Results:
 - Reduced overstocking and stockouts
 - Improved demand accuracy
-- Developed a usable dashboard
+-Data Preprocessing: Nulls/outliers removed, distributions analyzed  
+- Trend Analysis: Seasonal decomposition, outlier detection  
+- Feature Engineering: Added new variables based on EDA  
+- ML Modeling: Multiple regressors built and tested 
 
-Future work includes:
-- Advanced forecasting models
-- Real-time data integration
-- Wider retail sector testing
-
----
-
-## 9. Contributions  
-- **Data Preprocessing**: Nulls/outliers removed, distributions analyzed  
-- **Trend Analysis**: Seasonal decomposition, outlier detection  
-- **Feature Engineering**: Added new variables based on EDA  
-- **ML Modeling**: Multiple regressors built and tested  
-- **Team Collaboration**: Continuous meetings and mutual feedback during EDA, modeling, and validation
+ 
